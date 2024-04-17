@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Features
+build_property.ProjectDir = C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Features\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

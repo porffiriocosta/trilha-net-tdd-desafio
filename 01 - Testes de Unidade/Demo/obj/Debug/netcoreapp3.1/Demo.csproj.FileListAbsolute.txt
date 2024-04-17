@@ -1,0 +1,9 @@
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Projetos\trilha-net-tdd-desafio\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
